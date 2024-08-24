@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/parth-panchal54323a241"><img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:22bce523@nirmauni.ac.in">[<img alt="Email" title="Send me an email" src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail">](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+  <a href="mailto:22bce523@nirmauni.ac.in"><img alt="Email" title="Send me an email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </p>
 
 ---
