@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Parth Panchal! 👋</h1>
-<h3 align="center">Cybersecurity Enthusiast | Ethical Hacker | CSE Student</h3>
+<h3 align="center">Cybersecurity Enthusiast | CSE Student</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/parth-panchal54323a241"><img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
@@ -51,7 +51,7 @@
 ### 🏆 **Achievements**
 
 - **'Hacker' Level on Hack The Box**
-  - Mastered aggressive boxes, enhancing skills in hacking techniques, networks, cryptography, and exploitation.
+  - Mastered aggressive boxes, enhancing hacking techniques, networks, cryptography, and exploitation skills.
 - **LevelEffect CTF Competition**
   - Ranked 15th out of 910 participants at the Hacker level, demonstrating advanced cybersecurity skills in network security, cryptography, and exploitation techniques.
 
@@ -75,12 +75,4 @@
   - **Skills:** Active Directory, VAPT, Web Application Security, Network Security, Computer Networking
   - Developed hands-on experience in various aspects of ethical hacking, including web application security and network security.
 
----
 
-### 🤝 **Connect with me:**
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/parth-panchal54323a241"><img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:22bce523@nirmauni.ac.in"><img alt="Email" title="Send me an email" src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail"></a>
-  <a href="mailto:22bce523@nirmauni.ac.in">
-</p>
