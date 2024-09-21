@@ -2,7 +2,7 @@
 <h3 align="center">Cybersecurity Enthusiast | CSE Student</h3>
 
 <p align="center">
-  <a href="www.linkedin.com/in/m0n4rch"><img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="http://www.linkedin.com/in/m0n4rch"><img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:22bce523@nirmauni.ac.in"><img alt="Email" title="Send me an email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </p>
 
